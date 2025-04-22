@@ -1,0 +1,5 @@
+jsonschema_explorer.egg-info/
+__pycache__/
+build/
+dist/
+.pytest_cache
